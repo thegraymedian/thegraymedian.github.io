@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## about the gray median
 
 _yay_
 
