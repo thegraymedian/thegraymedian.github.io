@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[about tgm](./about-tgm.html).
+[about tgm](./about-tgm.html)
 
 There should be whitespace between paragraphs.
 
