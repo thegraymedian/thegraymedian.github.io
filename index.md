@@ -46,23 +46,9 @@ e<!DOCTYPE html>
 
   <body>
 
-    <header>
-      <div class="container">
-        <a id="a-title" href="/">
-          <h1>the gray median</h1>
-        </a>
-        <h2>win the net war</h2>
 
-        <section id="downloads">
-          
-            <a href="https://github.com/thegraymedian/thegraymedian.github.io/zipball/main" class="btn">Download as .zip</a>
-            <a href="https://github.com/thegraymedian/thegraymedian.github.io/tarball/main" class="btn">Download as .tar.gz</a>
-          
-          <a href="https://github.com/thegraymedian/thegraymedian.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
 
+    
     <div class="container">
       <section id="main_content">
         <p>&lt;!DOCTYPE html&gt;</p>
