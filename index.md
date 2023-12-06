@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+e<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=2f35949ef1a24f49a09b6067b67cfde7c6d4fd41">
+    <link rel="stylesheet" href="/assets/css/style.css?v=86c857622d343e2217eed15e8f99576bcdadc32c">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup theme-color -->
@@ -12,6 +12,73 @@
 <meta name="theme-color" content="#151515">
 <meta name="msapplication-navbutton-color" content="#151515">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- end theme color meta headers -->
+
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>the gray median | win the net war</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="the gray median" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="win the net war" />
+<meta property="og:description" content="win the net war" />
+<link rel="canonical" href="https://thegraymedian.github.io/" />
+<meta property="og:url" content="https://thegraymedian.github.io/" />
+<meta property="og:site_name" content="the gray median" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="the gray median" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"win the net war","headline":"the gray median","name":"the gray median","url":"https://thegraymedian.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <a id="a-title" href="/">
+          <h1>the gray median</h1>
+        </a>
+        <h2>win the net war</h2>
+
+        <section id="downloads">
+          
+            <a href="https://github.com/thegraymedian/thegraymedian.github.io/zipball/main" class="btn">Download as .zip</a>
+            <a href="https://github.com/thegraymedian/thegraymedian.github.io/tarball/main" class="btn">Download as .tar.gz</a>
+          
+          <a href="https://github.com/thegraymedian/thegraymedian.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <p>&lt;!DOCTYPE html&gt;</p>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/assets/css/style.css?v=2f35949ef1a24f49a09b6067b67cfde7c6d4fd41" />
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup theme-color -->
+<!-- start theme color meta headers -->
+<meta name="theme-color" content="#151515" />
+<meta name="msapplication-navbutton-color" content="#151515" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <!-- end theme color meta headers -->
 
 
@@ -58,8 +125,8 @@
           
           <a href="https://github.com/thegraymedian/thegraymedian.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
-      </div>
-    </header>
+      &lt;/div&gt;
+    &lt;/header&gt;
 
     <div class="container">
       <section id="main_content">
@@ -213,6 +280,12 @@
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
 </code></pre></div></div>
+
+      </section>
+    </div>
+  &lt;/body&gt;
+&lt;/html&gt;
+</a></div></header></body></html>
 
       </section>
     </div>
