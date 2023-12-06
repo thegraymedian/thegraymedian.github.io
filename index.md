@@ -99,13 +99,6 @@ e<!DOCTYPE html>
 
   <body>
 
-    <header>
-      <div class="container">
-        <a id="a-title" href="/"
-        
-    <div class="container">
-      <section id="main_content">
-        <p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="language-plaintext highlighter-rouge">keyword</code>.</p>
 
 <p><a href="./about-tgm.html">about tgm</a></p>
 
