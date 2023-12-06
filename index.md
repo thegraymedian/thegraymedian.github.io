@@ -101,19 +101,8 @@ e<!DOCTYPE html>
 
     <header>
       <div class="container">
-        <a id="a-title" href="/">
-         
-
-        <section id="downloads">
-          
-            <a href="https://github.com/thegraymedian/thegraymedian.github.io/zipball/main" class="btn">Download as .zip</a>
-            <a href="https://github.com/thegraymedian/thegraymedian.github.io/tarball/main" class="btn">Download as .tar.gz</a>
-          
-          <a href="https://github.com/thegraymedian/thegraymedian.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      &lt;/div&gt;
-    &lt;/header&gt;
-
+        <a id="a-title" href="/"
+        
     <div class="container">
       <section id="main_content">
         <p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="language-plaintext highlighter-rouge">keyword</code>.</p>
