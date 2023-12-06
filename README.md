@@ -1,1 +1,0 @@
-# thegraymedian.github.io
