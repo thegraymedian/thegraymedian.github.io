@@ -49,9 +49,7 @@
     <header>
       <div class="container">
         <a id="a-title" href="/">
-          <h1>the gray median</h1>
-        </a>
-        <h2>win the net war</h2>
+         
 
         <section id="downloads">
           
